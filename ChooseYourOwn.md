@@ -282,3 +282,4 @@ translation request.
 
 `ăn tiệc`
 `xong.`
+[[it means you're finished and can now party]]
